@@ -1,0 +1,5 @@
+{
+    "_type": "prompt",
+    "input_variables": ["input1", "input2"],
+    "template": "Write one 70-140 character Etsy title for {input1} t-shirts in a {input2} color. Titles must start with {input1} and end in '| {input2}'."
+}
