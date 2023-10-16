@@ -1,6 +1,6 @@
-# langchain-few-shot-JSON
+# langchain-zero-shot-JSON
 Created by: brbernas\
-Creation date: 10-1-23\
+Creation date: 10-15-23\
 IDE: VSCode, Jupyter\
 Chat/LLM: ChatOpenAI
 
